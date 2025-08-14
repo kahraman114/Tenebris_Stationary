@@ -1,0 +1,1 @@
+MsgBox "TcNo : 00000000000" & vbNewLine & "Sifre  : admin", vbInformation, "Admin Hesabi"
