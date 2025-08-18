@@ -18,11 +18,6 @@ Kırtasiye satış & stok ve lisans yönetim sistemi. SQL Server (Express) enteg
 2. `setup.exe`’yi çalıştır. SQL Server yüklü değilse otomatik kurulur/atlanır.
 3. Uygulamayı başlat ve ilk kullanıcıyı oluştur.
 
-## 📸 Ekran Görüntüleri
-![Giriş Ekranı](docs/images/r1.jpg)
-![Admin Panel Arayüzü](docs/images/r2.jpg)
-![Ürün Ekleme](docs/images/r3.jpg)
-
 ## 🧰 Teknolojiler
 - C# / Windows Forms
 - SQL Server 2022 Express
@@ -38,3 +33,13 @@ Kırtasiye satış & stok ve lisans yönetim sistemi. SQL Server (Express) enteg
 
 ## 📄 Lisans
 MIT License
+
+## 📸 Ekran Görüntüleri
+- [ ] Giriş Ekranı
+![Giriş Ekranı](docs/images/r1.jpg)
+
+- [ ] Admin Panel Arayüzü
+![Admin Panel Arayüzü](docs/images/r2.jpg)
+
+- [ ] Ürün Ekleme İşlemi
+![Ürün Ekleme](docs/images/r3.jpg)
