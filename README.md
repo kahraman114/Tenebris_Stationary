@@ -43,3 +43,6 @@ MIT License
 
 - [ ] Ürün Ekleme İşlemi
 ![Ürün Ekleme](docs/images/r3.jpg)
+
+- [ ] Ürün Satın Alma
+![Ürün Satın Alma](docs/images/r4.jpg)
