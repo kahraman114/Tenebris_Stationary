@@ -1,0 +1,7 @@
+Tenebris Stationary Setup ile uygulama haricinde SQL Server 2022'de kurar
+şuanlık sql kurulumunda sorun çıkmasada sql'e bağlanmada sorunlar çıkabilmektedir.
+
+Uygalamayı başlattığında "uygulama ile bağlantı kuruluyor..." kısmında kalıyorsanız
+ve uygulama devam etmiyorsa sql servere bağlanılamıyordur bu durumda MSSQL serveri
+manuel olarak kurmanız gerekmektedir ve "." veya "localhost" ile bağlantı kurulabiliyor
+olması gerekmektedir.

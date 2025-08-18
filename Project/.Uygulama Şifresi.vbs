@@ -1,0 +1,1 @@
+MsgBox "Sifre  : admin", vbInformation, "Uygulama Sifresi"
