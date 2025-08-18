@@ -19,9 +19,9 @@ Kırtasiye satış & stok ve lisans yönetim sistemi. SQL Server (Express) enteg
 3. Uygulamayı başlat ve ilk kullanıcıyı oluştur.
 
 ## 📸 Ekran Görüntüleri
-> `docs/images/` klasörüne görselleri ekleyip aşağıyı düzenle.
-![Ana Panel](docs/images/main-panel.png)
-![Satış Ekranı](docs/images/sales.png)
+![Giriş Ekranı](docs/images/r1.jpg)
+![Admin Panel Arayüzü](docs/images/r2.jpg)
+![Ürün Ekleme](docs/images/j3.jpg)
 
 ## 🧰 Teknolojiler
 - C# / Windows Forms
