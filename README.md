@@ -21,7 +21,7 @@ Kırtasiye satış & stok ve lisans yönetim sistemi. SQL Server (Express) enteg
 ## 📸 Ekran Görüntüleri
 ![Giriş Ekranı](docs/images/r1.jpg)
 ![Admin Panel Arayüzü](docs/images/r2.jpg)
-![Ürün Ekleme](docs/images/j3.jpg)
+![Ürün Ekleme](docs/images/r3.jpg)
 
 ## 🧰 Teknolojiler
 - C# / Windows Forms
